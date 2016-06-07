@@ -6,10 +6,9 @@
     {
         static void Main()
         {
-            if (EloBuddy.Hacks.RenderWatermark)
-            {
-                EloBuddy.Hacks.RenderWatermark = false;
-            }
+            
+             EloBuddy.Hacks.RenderWatermark = false;
+            
             
             if (EloBuddy.Hacks.IngameChat)
             {
